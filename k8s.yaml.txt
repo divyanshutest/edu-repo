@@ -1,4 +1,4 @@
-Kubernetes codes by divyanshu 
+kubernates code
 
 apiVersion: apps/v1
 kind: Deployment
